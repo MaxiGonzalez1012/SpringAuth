@@ -148,6 +148,4 @@ Maximiliano González
 
 Estudiante de Ingeniería en Informática – UADE
 
-Apasionado por la ciberseguridad y desarrollo backend
-
 LinkedIn (https://www.linkedin.com/in/maximiliano-gonzalez-9453ba281/)
