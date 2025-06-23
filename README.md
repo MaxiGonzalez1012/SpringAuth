@@ -122,11 +122,11 @@ public enum Role {
 
 ## ⚙️ Configuración inicial
 
-1- Crear base de datos en MySQL:
+1. Crear base de datos en MySQL:
 ```
 CREATE DATABASE springauth_db;
 ```
-2- Configurar el archivo application.properties:
+2. Configurar el archivo application.properties:
 ```
 spring.datasource.url=jdbc:mysql://localhost:3306/springauth_db
 spring.datasource.username=tu_usuario
@@ -135,7 +135,7 @@ spring.datasource.password=tu_contraseña
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 ```
-3- Ejecutar la aplicación:
+3. Ejecutar la aplicación:
 ```
 ./mvnw spring-boot:run
 ```
