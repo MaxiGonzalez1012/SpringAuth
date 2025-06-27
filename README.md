@@ -22,7 +22,7 @@
 - Spring Boot 3  
 - Spring Security  
 - Spring Data JPA  
-- JWT (JJWT)  
+- JWT 
 - Lombok  
 - MySQL  
 - Maven
